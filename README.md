@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AsadMir10
-- 👀 I’m interested in AI,ML
-- 🌱 I’m currently learning BS(AI)
-- 💞️ I’m looking to collaborate on ML/AI project
+- 👀 I’m interested in ML,Deep learning,Web development
+- 🌱 I’m currently MEAN Stack
+- 💞️ I’m looking to collaborate on ML/AI ,AngularJs projects
 
 <!---
 AsadMir10/AsadMir10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
