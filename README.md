@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AsadMir10
 - 👀 I’m interested in ML,Deep learning,Web development
-- 🌱 I’m currently learning MEAN Stack
+- 🌱 I’m currently learning DL
 - 💞️ I’m looking to collaborate on ML/AI ,AngularJs projects
 
 <!---
