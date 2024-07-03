@@ -1,5 +1,6 @@
 👋 Hi, I’m Asad Mir (@AsadMir10)
-About Me
+- About Me
+
 I am a passionate AI Engineer with a strong foundation in Machine Learning and Deep Learning. I have a degree in Artificial Intelligence from FAST Nuces Islamabad and currently work full-time at AgileLoop. My interests extend to web development, where I enjoy integrating AI solutions into scalable web applications.
 
 Interests
