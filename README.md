@@ -16,6 +16,7 @@ I am a passionate AI Engineer with a strong foundation in Machine Learning and D
   I am eager to collaborate on innovative projects in the fields of:
   - Machine Learning / Artificial Intelligence: From research to practical implementations.
   - Web Development: Particularly projects involving AngularJS and integrating AI capabilities.
+  
 Let's Connect
 LinkedIn: Asad Mir
 
