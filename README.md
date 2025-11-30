@@ -18,7 +18,7 @@ I am a passionate AI Engineer with a strong foundation in Machine Learning and D
   - Web Development: Particularly projects involving AngularJS and integrating AI capabilities.
   
 Let's Connect
-LinkedIn: https://www.linkedin.com/in/asad-ahsan-4258a5201/
+: https://www.linkedin.com/in/asad-ahsan-4258a5201/
 
 <!---
 AsadMir10/AsadMir10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
